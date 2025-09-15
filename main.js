@@ -12,7 +12,7 @@ if (num1 === '' || num1 < 0) {
 } else{
     for( i = 1; i <= num1; i++)  f *= i;{
      document.getElementById('output').innerHTML = f;
-     output.value = `${num1}! = ${factorial}`;
+     output.value = `${num1}! = ${f}`;
 }
 }
 
