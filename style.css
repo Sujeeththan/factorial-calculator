@@ -49,6 +49,7 @@ input {
   border-radius: 6px;
   border: 1px solid #ccc;
   margin-bottom: -2px;
+  color: red;
 }
 
 input:focus {
